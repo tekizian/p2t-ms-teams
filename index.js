@@ -27,3 +27,4 @@ document.addEventListener('focusin', function(event){
 });
 document.addEventListener('keydown',function(k){push2Talk(k);});
 document.addEventListener('keyup',function(k){push2Talk(k, true);});
+console.info('RUNNING: ', window);
