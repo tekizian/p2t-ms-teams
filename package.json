@@ -1,5 +1,5 @@
 {
-  "name": "p2t",
+  "name": "p2t-mst",
   "version": "1.0.0",
   "description": "A utility for adding Push to Talk functionality to MS teams",
   "main": "./lib/index.js",
