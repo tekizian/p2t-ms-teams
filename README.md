@@ -4,14 +4,14 @@ This package contains code that when executed within the console of a Microsoft 
 ### Installation
 Basic installation:
 ```
-npm i -g p2t
+npm i -g p2t-mst
 ```
 
 **For MacOS users**
 
 This package includes a bin command that will set up hotkeys via Automator. Once run, there should be a new Automator quick action that will activate developer mode and toggle p2t in an MS Teams window. To access this, run the following after basic installation:
 ```
-p2t --setup
+p2t-mst --setup
 ```
 Since this command uses `defaults` to add this shortcut, it may be necessary to run with `sudo`. 
 
@@ -19,7 +19,7 @@ After this setup has been successfully performed on your Mac, pressing "⌘+⌥+
 
 ### Use
 **Basic Use:**
-- Running `p2t` in the command line should print the 
+- Running `p2t-mst` in the command line should print the 
 code for adding and toggling p2t functionality to stdout.
 - The p2t activation/toggle code can also be found in `lib/index.js`.
 - Pasting that code into the console of a meeting window should activate the p2t functionality.

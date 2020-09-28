@@ -60,7 +60,7 @@
 				<dict>
 					<key>COMMAND_STRING</key>
 					<string>export PATH=/usr/local/bin:$PATH
-p2t</string>
+p2t-mst</string>
 					<key>CheckedForUserDefaultShell</key>
 					<true/>
 					<key>inputMethod</key>
@@ -173,7 +173,7 @@ p2t</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:485.000000</string>
+				<string>309.000000:305.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run Shell Script.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -275,7 +275,7 @@ end run</string>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>301.500000:730.000000</string>
+				<string>309.000000:550.000000</string>
 				<key>nibPath</key>
 				<string>/System/Library/Automator/Run AppleScript.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
@@ -285,7 +285,7 @@ end run</string>
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>2D9C70EF-2CD0-4A67-AD6F-B717840C9075</key>
+		<key>A7EA8DF9-BDC2-4BD4-BAAE-134E2C7D96DD</key>
 		<dict>
 			<key>from</key>
 			<string>26636774-7E36-4BCE-A302-8E4AE8BEB520 - 26636774-7E36-4BCE-A302-8E4AE8BEB520</string>
