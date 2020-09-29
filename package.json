@@ -11,7 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/tekizian/p2t-ms-teams.git"
   },
-  "keywords": [],
+  "keywords": [
+      "Microsoft",
+      "Teams",
+      "Mac",
+      "MacOS",
+      "Developer",
+      "Push",
+      "Talk",
+      "hotkeys",
+      "shortcut"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
